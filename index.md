@@ -5,3 +5,6 @@
 ```javascript
 const greeting = 'Dumela'
 ```
+- [x] List syntax is required
+- [ ] This item is complete
+- [x] This item is not complete
